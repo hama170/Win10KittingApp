@@ -1,0 +1,9 @@
+C:\Users\mikan\source\repos\Win10KittingApp\win10KittingApp\bin\Debug\win10KittingApp.exe.config
+C:\Users\mikan\source\repos\Win10KittingApp\win10KittingApp\bin\Debug\win10KittingApp.exe
+C:\Users\mikan\source\repos\Win10KittingApp\win10KittingApp\bin\Debug\win10KittingApp.pdb
+C:\Users\mikan\source\repos\Win10KittingApp\win10KittingApp\obj\Debug\win10KittingApp.csprojAssemblyReference.cache
+C:\Users\mikan\source\repos\Win10KittingApp\win10KittingApp\obj\Debug\win10KittingApp.Properties.Resources.resources
+C:\Users\mikan\source\repos\Win10KittingApp\win10KittingApp\obj\Debug\win10KittingApp.csproj.GenerateResource.cache
+C:\Users\mikan\source\repos\Win10KittingApp\win10KittingApp\obj\Debug\win10KittingApp.csproj.CoreCompileInputs.cache
+C:\Users\mikan\source\repos\Win10KittingApp\win10KittingApp\obj\Debug\win10KittingApp.exe
+C:\Users\mikan\source\repos\Win10KittingApp\win10KittingApp\obj\Debug\win10KittingApp.pdb

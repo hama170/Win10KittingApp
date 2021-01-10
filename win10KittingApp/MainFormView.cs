@@ -10,11 +10,17 @@ using System.Windows.Forms;
 
 namespace win10KittingApp
 {
-    public partial class Form1 : Form
+    public partial class MainFormView : Form
     {
-        public Form1()
+        public MainFormView()
         {
             InitializeComponent();
+            Init();
+        }
+
+        private void Init()
+        {
+            throw new NotImplementedException();
         }
     }
 }

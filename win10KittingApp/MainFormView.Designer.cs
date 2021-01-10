@@ -1,6 +1,6 @@
 ﻿namespace win10KittingApp
 {
-    partial class Form1
+    partial class MainFormView
     {
         /// <summary>
         /// 必要なデザイナー変数です。

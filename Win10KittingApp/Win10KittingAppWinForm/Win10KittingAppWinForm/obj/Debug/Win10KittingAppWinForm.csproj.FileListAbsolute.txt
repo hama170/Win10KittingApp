@@ -1,0 +1,10 @@
+C:\Users\mikan\source\repos\Win10KittingApp\Win10KittingAppWinForm\Win10KittingAppWinForm\obj\Debug\Win10KittingAppWinForm.csprojAssemblyReference.cache
+C:\Users\mikan\source\repos\Win10KittingApp\Win10KittingAppWinForm\Win10KittingAppWinForm\obj\Debug\Win10KittingAppWinForm.Properties.Resources.resources
+C:\Users\mikan\source\repos\Win10KittingApp\Win10KittingAppWinForm\Win10KittingAppWinForm\obj\Debug\Win10KittingAppWinForm.MainView.resources
+C:\Users\mikan\source\repos\Win10KittingApp\Win10KittingAppWinForm\Win10KittingAppWinForm\obj\Debug\Win10KittingAppWinForm.csproj.GenerateResource.cache
+C:\Users\mikan\source\repos\Win10KittingApp\Win10KittingAppWinForm\Win10KittingAppWinForm\obj\Debug\Win10KittingAppWinForm.csproj.CoreCompileInputs.cache
+C:\Users\mikan\source\repos\Win10KittingApp\Win10KittingAppWinForm\Win10KittingAppWinForm\bin\Debug\Win10KittingAppWinForm.exe.config
+C:\Users\mikan\source\repos\Win10KittingApp\Win10KittingAppWinForm\Win10KittingAppWinForm\bin\Debug\Win10KittingAppWinForm.exe
+C:\Users\mikan\source\repos\Win10KittingApp\Win10KittingAppWinForm\Win10KittingAppWinForm\bin\Debug\Win10KittingAppWinForm.pdb
+C:\Users\mikan\source\repos\Win10KittingApp\Win10KittingAppWinForm\Win10KittingAppWinForm\obj\Debug\Win10KittingAppWinForm.exe
+C:\Users\mikan\source\repos\Win10KittingApp\Win10KittingAppWinForm\Win10KittingAppWinForm\obj\Debug\Win10KittingAppWinForm.pdb
